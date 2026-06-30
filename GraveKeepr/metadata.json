@@ -1,0 +1,4 @@
+[
+  { "seriesId": 1, "seriesKey": 1001, "type": "Forecast", "dataFlow": "Upsert" },
+  { "seriesId": 2, "seriesKey": 1002, "type": "Actual", "dataFlow": "Append" }
+]
